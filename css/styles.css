@@ -1,15 +1,145 @@
-.def-js-style {
+.def-js {
 
-  border: 3px solid blue;
+  border: 10px solid blue;
   margin-left: 5px;
   padding-left: 15px;
   display: none;
 }
 
-.def-js-hidden {
 
+.def-op {
+
+  border: 10px solid green;
+  margin-left: 5px;
+  padding-left: 15px;
   display: none;
 }
+
+.def-var {
+
+  border: 10px solid yellow;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-vnc {
+
+  border: 10px solid orange;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-fun {
+
+  border: 10px solid red;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-meth {
+
+  border: 10px solid grey;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Arguments {
+
+  border: 10px solid cyan;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Parameters {
+
+  border: 10px solid darkblue;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Return {
+
+  border: 10px solid pink;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Chaining-methods {
+
+  border: 10px solid teal;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-Strings {
+
+  border: 10px solid maroon;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-Booleans {
+
+  border: 10px solid violet;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Undefined {
+
+  border: 10px solid black;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-NaN {
+
+  border: 10px solid brown;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Escape {
+
+  border: 10px solid lightblue;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Alert {
+
+  border: 10px solid magenta;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Comments{
+
+  border: 10px solid lightgreen;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-jQuery {
+
+  border: 10px solid purple;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+.def-Attributes {
+
+  border: 10px solid gold;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
 
 .clickable:hover {
   text-decoration: underline;
