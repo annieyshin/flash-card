@@ -1,0 +1,16 @@
+.def-js-style {
+
+  border: 3px solid blue;
+  margin-left: 5px;
+  padding-left: 15px;
+  display: none;
+}
+
+.def-js-hidden {
+
+  display: none;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
